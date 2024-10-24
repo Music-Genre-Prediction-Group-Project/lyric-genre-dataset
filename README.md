@@ -82,6 +82,17 @@ RnB | 3000 | 14.29%
 Rock | 3000 | 14.29%
 Total: 21000
 
+**Genly 4k**:
+Genre | Count | Percent
+--- | --- | ---
+Country | 4000 | 16.67%
+Metal | 4000 | 16.67%
+Pop | 4000 | 16.67%
+Rap | 4000 | 16.67%
+RnB | 4000 | 16.67%
+Rock | 4000 | 16.67%
+Total: 24000
+
 **Training Data**:
 Genre | Count | Percent
 --- | --- | ---
